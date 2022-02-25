@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="04_Program - MojeZkouška.cs" />
+    <Compile Include="Metronom-MetronomClass.cs" />
+    <Compile Include="MetronomClass - Copy.cs" />
+    <Compile Include="MultiMetronom.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
